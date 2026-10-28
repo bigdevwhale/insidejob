@@ -1,0 +1,224 @@
+work-01	WORK	1	Попросить коллегу посмотреть отчёт до сдачи	Ask a colleague to look over your report before it's due	Вздохнёт и решит, что ты не справляешься	They'll sigh and decide you can't cope
+work-02	WORK	1	Задать на планёрке вопрос, который кажется глупым	Ask a question at the team meeting that feels stupid	Все переглянутся, и станет ясно, что ты не в теме	Everyone will exchange looks and see you're out of your depth
+work-03	WORK	1	Ответить «не знаю, уточню и вернусь» вместо того, чтобы гадать	Say “I don't know, I'll check and get back to you” instead of guessing	Тебя перестанут считать специалистом	They'll stop treating you as an expert
+work-04	WORK	1	Отправить рабочее письмо, перечитав его один раз, а не пять	Send a work email after reading it through once, not five times	Кто-нибудь найдёт в письме ошибку, и будет стыдно	Someone will spot a mistake in it and you'll feel ashamed
+work-05	WORK	1	Уйти с работы вовремя и не извиняться	Leave work on time without apologising	Начальник заметит и решит, что тебе всё равно	Your manager will notice and think you don't care
+work-06	WORK	1	Попросить перенести срок задачи на один день	Ask to push a deadline back by one day	Откажут, и тебе это припомнят	They'll say no and hold it against you
+work-07	WORK	1	При всех похвалить идею коллеги	Praise a colleague's idea out loud in front of everyone	Прозвучит фальшиво, и всем станет неловко	It'll sound fake and everyone will feel awkward
+work-08	WORK	1	Попросить в рабочем чате помощи с задачей, которая не идёт	Ask for help in the team chat with a task you're stuck on	Никто не ответит, а все увидят, что ты буксуешь	Nobody will answer, and everyone will see you're stuck
+work-09	WORK	1	Взять обеденный перерыв целиком, без ноутбука	Take your full lunch break, away from the laptop	За этот час всё развалится	Everything will fall apart in that hour
+work-10	WORK	1	Признаться в мелкой ошибке, пока её никто не заметил	Own up to a small mistake before anyone notices it	Отругают сильнее, чем за молчание	You'll be told off more than if you'd kept quiet
+work-11	WORK	1	Отказаться от созвона, на котором можно не присутствовать	Decline a call you don't actually need to be on	Организатор обидится	The organiser will take offence
+work-12	WORK	1	Спросить руководителя, как он оценивает твою работу	Ask your manager how they rate your work	Услышишь, что всё плохо	You'll hear that it's all bad
+work-13	WORK	2	Показать команде сырой черновик презентации	Show the team a rough draft of your presentation	Раскритикуют и решат, что ты халтуришь	They'll tear it apart and think you're cutting corners
+work-14	WORK	2	Сказать «нет», когда просят взять ещё одну задачу	Say no when asked to take on one more task	Обидятся и перестанут на тебя рассчитывать	They'll be offended and stop counting on you
+work-15	WORK	2	Предложить свою идею на встрече раньше других	Be the first to put forward an idea in a meeting	Идею высмеют или пропустят мимо ушей	The idea will be laughed at or ignored
+work-16	WORK	2	Попросить отзыв о работе у коллеги, чьего мнения боишься	Ask for feedback from a colleague whose opinion scares you	Услышишь такое, что захочется уволиться	You'll hear something that makes you want to quit
+work-17	WORK	2	Отключить рабочие уведомления на все выходные	Turn off work notifications for a whole weekend	В понедельник окажется, что стряслось что-то срочное	On Monday it'll turn out something urgent happened
+work-18	WORK	2	Поручить задачу другому и не переделывать за ним	Delegate a task and don't redo it yourself	Сделают плохо, и отвечать придётся тебе	It'll be done badly and you'll take the blame
+work-19	WORK	2	Спросить, может ли компания оплатить тебе обучение	Ask whether the company could pay for a course for you	Решат, что ты собираешься уходить	They'll think you're planning to leave
+work-20	WORK	2	Спокойно и по делу возразить на встрече	Disagree calmly and to the point in a meeting	Начнётся спор, и отношения испортятся	It'll turn into an argument and spoil relations
+work-21	WORK	2	Рассказать о своём успехе в рабочем чате	Share one of your wins in the team chat	Сочтут хвастовством	People will think you're bragging
+work-22	WORK	2	Попросить младшего коллегу объяснить то, чего ты не знаешь	Ask a junior colleague to explain something you don't know	Потеряешь в их глазах всякий авторитет	You'll lose their respect
+work-23	WORK	3	Попросить прибавку, заранее подготовив доводы	Ask for a pay rise with your arguments prepared	Откажут, и отношение к тебе испортится	They'll refuse and things will turn sour
+work-24	WORK	3	Выступить с докладом перед отделом	Give a talk to your department	Собьёшься, и все увидят, как ты волнуешься	You'll lose your thread and everyone will see you're nervous
+work-25	WORK	3	Откликнуться на вакансию, до которой, кажется, не дотягиваешь	Apply for a job you feel you're not good enough for	Даже не ответят	They won't even reply
+work-26	WORK	3	Попросить руководителя о новой роли или проекте	Ask your manager for a new role or project	Скажут, что ты до этого не {дорос|доросла}	They'll say you're not ready for it
+work-27	WORK	3	Сходить на отраслевую встречу и познакомиться с тремя людьми	Go to an industry meetup and meet three people	Простоишь весь вечер в углу, и никто не заговорит	You'll stand in a corner all evening and nobody will talk to you
+work-28	WORK	3	Обсудить с руководителем гибкий график или день удалёнки	Discuss flexible hours or a remote day with your manager	Решат, что ты ленишься, и откажут	They'll think you're slacking and say no
+people-01	PEOPLE	1	Сказать официанту, что блюдо остыло	Tell the waiter your food has gone cold	Официант нагрубит, и все обернутся	The waiter will be rude and everyone will turn round
+people-02	PEOPLE	1	Спросить дорогу у прохожего, хотя есть навигатор	Ask a passer-by for directions even though you have a map app	Отмахнутся и пройдут мимо	They'll brush you off and walk on
+people-03	PEOPLE	1	Похвалить у незнакомца шарф, собаку или книгу	Compliment a stranger on their scarf, dog or book	Посмотрят на тебя с подозрением	They'll look at you suspiciously
+people-04	PEOPLE	1	Принять комплимент, сказав только «спасибо»	Take a compliment with just “thank you”	Подумают, что ты {зазнался|зазналась}	They'll think you've got a big head
+people-05	PEOPLE	1	Отправить сообщение с опечаткой и не исправлять её	Send a message with a typo and don't correct it	Решат, что ты {безграмотный|безграмотная}	They'll think you can't spell
+people-06	PEOPLE	1	Попросить в кафе стакан воды бесплатно	Ask for a free glass of tap water in a café	Откажут с кислым видом	They'll refuse with a sour face
+people-07	PEOPLE	1	Поздороваться с соседом по подъезду, не дожидаясь его	Be the first to say hello to a neighbour in your building	Сосед не ответит	The neighbour won't answer
+people-08	PEOPLE	1	Сказать «не знаю» в разговоре, где все что-то знают	Say “I don't know” in a conversation where everyone seems to know	Посмотрят как на {глупого|глупую}	They'll look at you as if you're stupid
+people-09	PEOPLE	1	Вернуть в магазин вещь, которая не подошла	Return something to a shop that didn't fit	Начнут допрашивать и откажут	They'll grill you and refuse
+people-10	PEOPLE	1	Попросить соседа по очереди присмотреть за твоим местом	Ask the person behind you in a queue to keep your place	Откажут, и будет неловко	They'll refuse and it'll be awkward
+people-11	PEOPLE	1	Написать старому знакомому: «Привет, {вспомнил|вспомнила} о тебе»	Message an old acquaintance: “Hi, I was just thinking of you”	Не ответят или ответят сухо	They won't reply, or will reply coldly
+people-12	PEOPLE	1	Спросить продавца, а не искать самому полчаса	Ask a shop assistant instead of searching for half an hour	Продавец раздражённо покажет, что всё на виду	The assistant will irritably point out it's right there
+people-13	PEOPLE	2	Записаться к врачу или мастеру по телефону, а не через сайт	Book an appointment by phone instead of online	Начнёшь мямлить, а на том конце рассердятся	You'll mumble and they'll get annoyed
+people-14	PEOPLE	2	Отказаться от встречи, не придумывая оправданий	Turn down an invitation without inventing an excuse	Обидятся и больше не позовут	They'll be hurt and never invite you again
+people-15	PEOPLE	2	Позвать знакомого на кофе, не дожидаясь приглашения	Be the one to invite an acquaintance for coffee	Найдут вежливый повод отказаться	They'll find a polite reason to say no
+people-16	PEOPLE	2	Заговорить с кем-нибудь в очереди или на остановке	Start a chat with someone in a queue or at a bus stop	Посмотрят как на {странного|странную}	They'll think you're weird
+people-17	PEOPLE	2	Попросить соседей сделать музыку потише	Ask the neighbours to turn their music down	Нагрубят, и начнётся вражда	They'll be rude and it'll start a feud
+people-18	PEOPLE	2	Спокойно и наедине сказать другу, что его шутка тебя задела	Tell a friend, calmly and in private, that their joke hurt	Друг обидится и отдалится	They'll take offence and drift away
+people-19	PEOPLE	2	Прийти на лекцию или встречу без компании и остаться до конца	Go to a talk or event on your own and stay to the end	Все будут с кем-то, и станет тоскливо	Everyone will be with someone and you'll feel miserable
+people-20	PEOPLE	2	Попросить знакомого о небольшой услуге	Ask an acquaintance for a small favour	Согласятся нехотя и потом припомнят	They'll agree grudgingly and remind you of it later
+people-21	PEOPLE	2	Рассказать в компании историю до конца, даже если перебивают	Finish telling a story in a group even if people cut in	Всем будет скучно	Everyone will be bored
+people-22	PEOPLE	2	Выдержать паузу в разговоре и не заполнять её	Let a pause in conversation sit without filling it	Молчание станет невыносимым, и разговор заглохнет	The silence will become unbearable and the conversation will die
+people-23	PEOPLE	3	Позвать знакомых к себе в гости	Host a get-together for friends at your place	Никто не придёт или всем будет скучно	Nobody will come, or everyone will be bored
+people-24	PEOPLE	3	Сходить в клуб по интересам, где никого не знаешь	Go to a hobby club where you don't know anyone	Тебя не примут, и ты будешь там {чужим|чужой}	They won't accept you and you'll feel like an outsider
+people-25	PEOPLE	3	Сказать короткую речь на дне рождения друга	Give a short speech at a friend's birthday	Запнёшься, и все будут прятать глаза	You'll stumble and everyone will look away
+people-26	PEOPLE	3	Написать человеку, с которым когда-то поссорились, не дожидаясь его шага	Reach out first to someone you fell out with	Проигнорируют или ответят колкостью	They'll ignore you or reply with a jab
+people-27	PEOPLE	3	Позвать на прогулку человека, с которым хочется дружить	Invite someone you'd like to befriend for a walk	Поймут, что ты навязываешься, и откажут	They'll see you're pushing and say no
+people-28	PEOPLE	3	Записаться волонтёром на разовое мероприятие	Sign up to volunteer at a one-off event	Окажешься там {лишним|лишней}	You'll just be in the way
+love-01	LOVE	1	Написать партнёру «скучаю», не дожидаясь его сообщения	Text your partner “I miss you” first	Ответят сухо или не ответят вовсе	They'll reply coldly or not at all
+love-02	LOVE	1	Сказать, чего хочется на ужин, а не «мне всё равно»	Say what you want for dinner instead of “I don't mind”	Начнётся спор, и ты пожалеешь	It'll lead to an argument and you'll regret it
+love-03	LOVE	1	Попросить обнять, когда грустно	Ask for a hug when you feel low	Обнимут из вежливости, и будет неловко	They'll hug you out of politeness and it'll be awkward
+love-04	LOVE	1	Сказать партнёру: «Мне было приятно, когда ты…»	Tell your partner “I loved it when you…”	Прозвучит слащаво	It'll sound soppy
+love-05	LOVE	1	Признаться, что не понимаешь, о чём рассказывает партнёр	Admit you don't follow what your partner is talking about	Партнёр решит, что тебе неинтересно	They'll think you're not interested
+love-06	LOVE	1	Принять помощь партнёра без «да я {сам|сама}»	Accept your partner's help without “I'll do it myself”	Партнёр решит, что ты {беспомощный|беспомощная}	They'll think you're helpless
+love-07	LOVE	1	Попросить у партнёра вечер для себя	Ask your partner for an evening to yourself	Партнёр обидится и решит, что дело в нём	They'll be hurt and think it's about them
+love-08	LOVE	1	Провести день с партнёром в домашнем виде, не прихорашиваясь	Spend a day with your partner without dressing up	Партнёр заметит и разочаруется	They'll notice and be disappointed
+love-09	LOVE	1	Сделать комплимент человеку, который нравится	Pay a compliment to someone you like	Посмеются или смутятся, и всё испортится	They'll laugh or get flustered and it'll all be ruined
+love-10	LOVE	1	Сказать после ссоры: «Тут я {был неправ|была неправа}»	After an argument, say “I was wrong about that”	Это потом обернут против тебя	They'll use it against you later
+love-11	LOVE	1	Спросить партнёра, как прошёл день, и выслушать без советов	Ask how your partner's day went and listen without giving advice	Без советов покажется, что тебе нечего сказать	Without advice it'll look like you have nothing to say
+love-12	LOVE	1	Рассказать партнёру о маленькой радости за день	Tell your partner about one small joy from your day	Партнёр отреагирует равнодушно	They'll shrug it off
+love-13	LOVE	2	Сразу и спокойно сказать партнёру, что тебя что-то задело	Tell your partner calmly, straight away, that something hurt you	Начнётся ссора	It'll start a fight
+love-14	LOVE	2	Пригласить на свидание того, кто нравится	Ask someone you like on a date	Откажут, и будет стыдно	They'll say no and you'll feel ashamed
+love-15	LOVE	2	Предложить партнёру новое занятие на выходные	Suggest a new weekend activity to your partner	Отмахнутся и назовут это глупостью	They'll dismiss it as silly
+love-16	LOVE	2	Попросить партнёра взять на себя одно домашнее дело	Ask your partner to take over one household chore	Услышишь, что ты и так мало делаешь	You'll be told you already do too little
+love-17	LOVE	2	Рассказать партнёру о своём страхе или неуверенности	Tell your partner about one of your fears or insecurities	Тебя станут любить меньше	They'll love you less
+love-18	LOVE	2	Отказать партнёру в просьбе, которую не хочется выполнять	Say no to a request from your partner you don't want to do	Партнёр будет дуться весь вечер	They'll sulk all evening
+love-19	LOVE	2	Заполнить анкету на сайте знакомств и честно написать о себе	Fill in a dating profile and write honestly about yourself	Никто не напишет	Nobody will message you
+love-20	LOVE	2	Сказать партнёру, как тебя лучше поддерживать, когда трудно	Tell your partner how best to support you when things are hard	Решат, что ты требуешь слишком многого	They'll think you're asking too much
+love-21	LOVE	2	Предложить помириться после размолвки, не дожидаясь шага партнёра	Be the first to make up after a tiff	Решат, что ты {сдался|сдалась}, и начнут давить	They'll take it as giving in and push harder
+love-22	LOVE	2	Ответить тому, кто нравится, сразу, не выжидая	Reply to someone you like straight away, without playing it cool	Покажешься {навязчивым|навязчивой}	You'll come across as too keen
+love-23	LOVE	3	Сказать человеку, что он тебе нравится	Tell someone you like them	Человек отдалится, и общение закончится	They'll pull away and that'll be the end of it
+love-24	LOVE	3	Сказать «я тебя люблю», не дожидаясь, когда скажут тебе	Say “I love you” first	Не ответят тем же	They won't say it back
+love-25	LOVE	3	Спокойно поднять с партнёром давний наболевший вопрос	Calmly raise a long-standing sore point with your partner	Разговор закончится скандалом	It'll end in a row
+love-26	LOVE	3	Сходить на свидание с человеком из приложения знакомств	Go on a date with someone from a dating app	Встреча будет мучительной, и тебя сочтут занудой	It'll be painful and they'll find you boring
+love-27	LOVE	3	Поделиться с партнёром мечтой, о которой ещё никто не знает	Share with your partner a dream nobody knows about	Над тобой посмеются	They'll laugh at you
+love-28	LOVE	3	Попросить партнёра о том, чего давно хочется, но было неловко	Ask your partner for something you've long wanted but felt shy about	Сочтут тебя {странным|странной}	They'll think you're odd
+family-01	FAMILY	1	Позвонить родителям просто так, без повода	Call your parents just because	Начнут упрекать, что звонишь редко	They'll nag you for not calling more often
+family-02	FAMILY	1	Сказать маме: «Спасибо, но этот совет мне не подходит»	Tell your mum “Thanks, but that advice doesn't work for me”	Мама обидится	Mum will be hurt
+family-03	FAMILY	1	Попросить родственника о небольшой помощи	Ask a relative for a small favour	Будут припоминать при каждом случае	They'll bring it up at every chance
+family-04	FAMILY	1	Перевести разговор, когда родственники лезут в личное	Change the subject when relatives pry	Обидятся и начнут допытываться ещё сильнее	They'll be offended and press even harder
+family-05	FAMILY	1	Сказать ребёнку или младшему родственнику: «Я {ошибся|ошиблась}, прости»	Tell a child or younger relative “I got it wrong, sorry”	Потеряешь в их глазах авторитет	You'll lose their respect
+family-06	FAMILY	1	Отправить в семейный чат фото, где ты не при параде	Post a not-so-flattering photo of yourself to the family chat	Начнут подшучивать	They'll start teasing
+family-07	FAMILY	1	Сказать родным, что {устал|устала} и сегодня не приедешь	Tell your family you're tired and won't come round today	Обидятся, будто ты их не любишь	They'll act as if you don't love them
+family-08	FAMILY	1	Рассказать родителям о своей маленькой удаче	Tell your parents about a small success	Скажут «ну и что» или найдут, к чему придраться	They'll say “so what” or find something to pick at
+family-09	FAMILY	1	Отказаться от добавки за семейным столом	Turn down second helpings at a family meal	Хозяйка обидится	The host will be offended
+family-10	FAMILY	1	Расспросить бабушку или дедушку про их молодость	Ask a grandparent about when they were young	Разговор не склеится, будет скучно	The conversation will fall flat
+family-11	FAMILY	1	Попросить брата или сестру вернуть одолженную вещь	Ask a sibling to return something they borrowed	Поругаетесь из-за ерунды	You'll fall out over nothing
+family-12	FAMILY	1	Сказать родственнику «мне это неприятно», когда шутят над тобой	Tell a relative “I don't like that” when they make fun of you	Скажут, что ты {обидчивый|обидчивая}	They'll call you touchy
+family-13	FAMILY	2	Пропустить звонок родителей и перезвонить через час	Miss a call from your parents and ring back an hour later	Решат, что что-то случилось, и поднимут панику	They'll assume something's wrong and panic
+family-14	FAMILY	2	Предложить семье отметить праздник по-новому	Suggest celebrating a family holiday in a new way	Все будут против, и выйдет ссора	Everyone will object and there'll be a row
+family-15	FAMILY	2	Спокойно объяснить родителям одно своё решение, не оправдываясь	Calmly explain one of your decisions to your parents without justifying it	Начнут отговаривать и обидятся	They'll try to talk you out of it and be hurt
+family-16	FAMILY	2	Попросить родителей не приезжать без предупреждения	Ask your parents not to drop by unannounced	Обидятся всерьёз и надолго	They'll be deeply hurt for a long time
+family-17	FAMILY	2	Мягко не ответить на вопрос про свадьбу или детей	Politely sidestep the question about marriage or children	Устроят допрос при всех	They'll interrogate you in front of everyone
+family-18	FAMILY	2	Попросить родных помочь с переездом или ремонтом	Ask family to help with a move or repairs	Все найдут отговорки	Everyone will find excuses
+family-19	FAMILY	2	Сказать отцу или матери, что ты им {благодарен|благодарна}	Tell your father or mother you're grateful to them	Отшутятся, и станет неловко	They'll laugh it off and it'll be awkward
+family-20	FAMILY	2	Разделить с домашними дела по списку	Split household chores with the family using a list	Обвинят в мелочности	They'll call you petty
+family-21	FAMILY	2	Выслушать совет родных и поступить по-своему	Listen to your family's advice and still do it your way	Скажут «мы же говорили» и обидятся	They'll say “we told you so” and sulk
+family-22	FAMILY	2	Провести выходной с семьёй без телефона	Spend a day off with family without your phone	Будет скучно, и все разбредутся по углам	It'll be boring and everyone will drift off
+family-23	FAMILY	3	Поговорить с родителем о давней обиде, спокойно и без упрёков	Talk to a parent about an old hurt, calmly and without blame	Станет только хуже, чем было	Things will get worse than before
+family-24	FAMILY	3	Сказать родным, что этот праздник проведёшь отдельно	Tell your family you'll spend this holiday on your own terms	Семья обидится всерьёз	The family will be seriously hurt
+family-25	FAMILY	3	Написать родственнику, с которым давно не общаетесь	Message a relative you've lost touch with, first	Ответят холодно или не ответят	They'll reply coldly or not at all
+family-26	FAMILY	3	Рассказать родителям о решении, которое им не понравится	Tell your parents about a decision they won't like	Будет скандал, и отношения испортятся	There'll be a row and things will sour
+family-27	FAMILY	3	Устроить семейный ужин у себя и приготовить всё по-своему	Host a family dinner and cook everything your way	Раскритикуют каждое блюдо	They'll criticise every dish
+family-28	FAMILY	3	Сказать маме или папе «я тебя люблю»	Tell your mum or dad “I love you”	Смутятся и сделают вид, что не услышали	They'll get embarrassed and pretend not to hear
+body-01	BODY	1	Выйти на улицу в одежде, которая нравится, но кажется смелой	Go out in clothes you like but that feel bold	Все будут пялиться и посмеиваться	Everyone will stare and snigger
+body-02	BODY	1	Прилечь днём на двадцать минут, ничем этого не заслужив	Lie down for twenty minutes in the day without earning it	Потом ничего не успеешь	You won't get anything done afterwards
+body-03	BODY	1	Сделать зарядку у открытого окна	Do some stretches by an open window	Соседи увидят и засмеют	The neighbours will see and laugh
+body-04	BODY	1	Спросить врача, что значит непонятное слово в заключении	Ask your doctor what a confusing word in your results means	Врач раздражённо отмахнётся	The doctor will brush you off irritably
+body-05	BODY	1	Сфотографироваться, не втягивая живот и не ища ракурс	Have your photo taken without sucking in or finding your angle	Снимок получится ужасным	The photo will look terrible
+body-06	BODY	1	Лечь спать на час раньше, не доделав дела	Go to bed an hour early, leaving things unfinished	Утром всё навалится, и день пропадёт	Everything will pile up and the day will be ruined
+body-07	BODY	1	Пройтись по улице под музыку в наушниках, слегка пританцовывая	Walk down the street to music in your headphones, with a bit of a dance	Прохожие будут оборачиваться	People will turn and stare
+body-08	BODY	1	Съесть десерт медленно и без чувства вины	Eat a dessert slowly and without guilt	Потом весь день будешь себя ругать	You'll beat yourself up all day
+body-09	BODY	1	Сказать тренеру, что не понимаешь, как делать упражнение	Tell the trainer you don't get how to do an exercise	Тренер закатит глаза	The trainer will roll their eyes
+body-10	BODY	1	Записаться к врачу, к которому давно откладываешь поход	Book the doctor's appointment you've been putting off	Запись выйдет долгой нервотрёпкой	Booking it will be a long, nerve-racking hassle
+body-11	BODY	1	Проехать десять минут в транспорте, глядя в окно, без телефона	Ride ten minutes on public transport looking out of the window, no phone	Станет невыносимо скучно	You'll be unbearably bored
+body-12	BODY	1	Попросить в магазине одежды размер побольше	Ask for a bigger size in a clothes shop	Продавец смерит оценивающим взглядом	The assistant will look you up and down
+body-13	BODY	2	Сходить на пробную тренировку нового вида спорта	Go to a taster session of a new sport	Будешь {самым неуклюжим|самой неуклюжей} в зале	You'll be the clumsiest one there
+body-14	BODY	2	Сходить в бассейн и проплыть, сколько получится	Go to the pool and swim as much as you can	Все будут разглядывать твоё тело	Everyone will be looking at your body
+body-15	BODY	2	Провести вечер без экранов, просто отдыхая	Spend an evening without screens, simply resting	Вечер пропадёт впустую	The evening will be wasted
+body-16	BODY	2	Сходить на танцы для начинающих	Go to a beginners' dance class	Будешь выглядеть нелепо	You'll look ridiculous
+body-17	BODY	2	Сходить к другому врачу за вторым мнением	See another doctor for a second opinion	Врачи сочтут тебя {мнительным|мнительной}	The doctors will think you're a hypochondriac
+body-18	BODY	2	Пройти быстрым шагом или пробежать круг в людном парке	Power-walk or jog a lap of a busy park	Запыхаешься, и все это увидят	You'll be out of breath and everyone will see
+body-19	BODY	2	Взять отгул, когда плохо себя чувствуешь, а не терпеть	Take a sick day when you feel unwell instead of pushing through	Решат, что ты притворяешься	They'll think you're faking
+body-20	BODY	2	Прийти на йогу и пропускать позы, которые не получаются	Go to yoga and skip the poses you can't do	Инструктор сделает замечание при всех	The instructor will call you out in front of everyone
+body-21	BODY	2	Сделать стрижку, которую давно хочется	Get the haircut you've wanted for ages	Выйдет ужасно, и все заметят	It'll look awful and everyone will notice
+body-22	BODY	2	Целый выходной не планировать ничего полезного	Plan nothing useful for a whole day off	К вечеру накроет чувство вины	By evening you'll be swamped with guilt
+body-23	BODY	3	Пройти или пробежать любительский забег на пять километров	Walk or run an amateur 5 km event	Придёшь {последним|последней}	You'll finish last
+body-24	BODY	3	Сходить на пляж и не прятаться под полотенцем	Go to the beach and don't hide under a towel	Будут коситься и обсуждать	People will stare and whisper
+body-25	BODY	3	Записаться на месяц занятий танцами	Sign up for a month of dance classes	Бросишь от стыда после второго занятия	You'll quit out of embarrassment after the second class
+body-26	BODY	3	Выложить своё фото в соцсети без фильтров и обработки	Post a photo of yourself online with no filters or edits	Напишут обидный комментарий	Someone will leave a nasty comment
+body-27	BODY	3	Прожить целый день в медленном темпе, без спешки	Spend a whole day at a slow pace, without rushing	Ничего не успеешь, и всё посыплется	You'll get nothing done and everything will go wrong
+body-28	BODY	3	Впервые сходить в спортзал и позаниматься час	Go to a gym for the first time and work out for an hour	Все увидят, что ты не знаешь, что делать	Everyone will see you don't know what you're doing
+money-01	MONEY	1	Попросить скидку на рынке	Ask for a discount at a market	Продавец высмеет	The seller will mock you
+money-02	MONEY	1	Пересчитать сдачу, не отходя от кассы	Count your change before leaving the till	Кассир обидится	The cashier will be offended
+money-03	MONEY	1	Потребовать вернуть деньги за бракованный товар	Ask for a refund on a faulty item	Откажут, и придётся спорить	They'll refuse and you'll have to argue
+money-04	MONEY	1	Сказать друзьям: «Мне сейчас это не по карману»	Tell friends “I can't afford that right now”	Перестанут звать с собой	They'll stop inviting you
+money-05	MONEY	1	Напомнить знакомому о долге	Remind someone about money they owe you	Обидится и перестанет общаться	They'll be offended and stop talking to you
+money-06	MONEY	1	Не скидываться на подарок, который не хочется дарить	Opt out of chipping in for a gift you don't want to give	Сочтут тебя {жадным|жадной}	They'll think you're stingy
+money-07	MONEY	1	Спросить цену, прежде чем заказать	Ask the price before ordering	Официант усмехнётся	The waiter will smirk
+money-08	MONEY	1	Попросить в кафе раздельный счёт	Ask for separate bills in a café	Друзья решат, что ты мелочишься	Your friends will think you're being petty
+money-09	MONEY	1	Открыть выписку по карте и посмотреть траты за месяц	Open your bank statement and look at the month's spending	Увидишь катастрофу и расстроишься на весь день	You'll see a disaster and be upset all day
+money-10	MONEY	1	Отказаться от доплаты, которую навязывают на кассе	Turn down an add-on pushed at the till	Начнут уговаривать, и ты сдашься	They'll keep pushing and you'll give in
+money-11	MONEY	1	Купить себе приятную мелочь без повода	Buy yourself a small treat for no reason	Будешь корить себя за транжирство	You'll scold yourself for wasting money
+money-12	MONEY	1	Сказать продавцу «я подумаю» и уйти без покупки	Tell a salesperson “I'll think about it” and leave without buying	Продавец начнёт давить и обидится	The salesperson will get pushy and offended
+money-13	MONEY	2	Поторговаться о цене с мастером	Negotiate the price with a tradesperson	Мастер откажется от работы	They'll turn the job down
+money-14	MONEY	2	Назвать за свою работу цену чуть выше обычной	Quote a slightly higher price for your work	Клиент уйдёт	The client will walk away
+money-15	MONEY	2	Позвонить в банк и попросить отменить комиссию	Call your bank and ask them to waive a fee	Даже слушать не станут	They won't even listen
+money-16	MONEY	2	Продать ненужную вещь через объявление	Sell something you don't need through an online ad	Никто не купит, или собьют цену до копеек	Nobody will buy it, or they'll haggle it down to nothing
+money-17	MONEY	2	Обсудить с другом зарплаты, начав со своей	Talk about salaries with a friend, naming yours first	Друг осудит или начнёт завидовать	Your friend will judge you or get envious
+money-18	MONEY	2	Отказать, когда просят в долг, а давать не хочется	Say no to lending money when you don't want to	На этом дружба закончится	That'll be the end of the friendship
+money-19	MONEY	2	Отменить ненужную подписку через службу поддержки	Cancel an unused subscription through customer support	Будут полчаса уговаривать и не отпустят	They'll spend half an hour talking you round and won't let you go
+money-20	MONEY	2	Составить бюджет на месяц и показать близкому человеку	Draw up a monthly budget and show it to someone close	Посмеются над твоими тратами	They'll laugh at your spending
+money-21	MONEY	2	Попросить продавца объяснить условия договора по пунктам	Ask the seller to explain the contract terms point by point	Решат, что ты ничего не смыслишь, и начнут юлить	They'll think you're clueless and start dodging
+money-22	MONEY	2	Потратить небольшую сумму на хобби, а не на нужное	Spend a small sum on a hobby rather than on necessities	Деньги уйдут впустую	The money will be wasted
+money-23	MONEY	3	Попросить заказчика пересмотреть твою ставку	Ask a client to review your rate	Заказчик уйдёт к другому	The client will go elsewhere
+money-24	MONEY	3	Поторговаться при крупной покупке	Negotiate on a big purchase	Продавец откажет, и будет стыдно	The seller will refuse and you'll feel ashamed
+money-25	MONEY	3	Сходить на консультацию в банк и задать все «глупые» вопросы	Book a consultation at your bank and ask all your “silly” questions	Консультант будет говорить снисходительно	The adviser will talk down to you
+money-26	MONEY	3	Начать каждую неделю откладывать небольшую сумму	Start putting aside a small sum every week	Через неделю сорвёшься	You'll give up within a week
+money-27	MONEY	3	Назначить цену за то, что раньше делалось бесплатно	Start charging for something you used to do for free	Все отвернутся и скажут, что ты {зазнался|зазналась}	Everyone will turn away and say you've got above yourself
+money-28	MONEY	3	Честно и подробно обсудить с партнёром общие деньги	Talk openly and in detail with your partner about shared money	Разговор кончится ссорой	The talk will end in a fight
+self-01	SELF	1	Посидеть полчаса в кафе без компании и без телефона	Sit in a café for half an hour alone and without your phone	Все решат, что тебя бросили	Everyone will think you've been stood up
+self-02	SELF	1	Записать три вещи, которые сегодня получились	Write down three things that went well today	Не найдётся ни одной	You won't find a single one
+self-03	SELF	1	Сказать себе вслух доброе слово у зеркала	Say something kind to yourself out loud in the mirror	Почувствуешь себя {полным дураком|полной дурой}	You'll feel a complete idiot
+self-04	SELF	1	Оставить одно домашнее дело до завтра	Leave one household chore until tomorrow	Весь вечер не сможешь успокоиться	You won't be able to relax all evening
+self-05	SELF	1	Целый день не извиняться без повода	Go a whole day without apologising needlessly	Сочтут тебя {грубым|грубой}	People will think you're rude
+self-06	SELF	1	Застелить кровать как попало и так оставить	Make the bed any old way and leave it	Это будет грызть весь день	It'll nag at you all day
+self-07	SELF	1	Выйти на прогулку без цели и маршрута	Go for a walk with no aim or route	Будет скучно и бессмысленно	It'll be dull and pointless
+self-08	SELF	1	Записать мысль «у меня ничего не получается» и три примера против	Write down the thought “I can't do anything right” and three examples against it	Ни одного примера не найдётся	You won't find a single example
+self-09	SELF	1	Попросить близкого помочь с делом, которое обычно тянешь в одиночку	Ask someone close to help with something you usually handle alone	Решат, что ты сдаёшь	They'll think you're losing your grip
+self-10	SELF	1	Прямо сказать о своём желании: «Я хочу…»	State a wish plainly: “I want…”	Прозвучит эгоистично	It'll sound selfish
+self-11	SELF	1	Потратить вечер на то, что нравится, а не на полезное	Spend an evening on something you enjoy rather than something useful	Потом будет стыдно за потерянное время	You'll feel ashamed of the wasted time
+self-12	SELF	1	Не брать телефон в руки первый час после пробуждения	Don't pick up your phone for the first hour after waking	Пропустишь что-то важное	You'll miss something important
+self-13	SELF	2	Сходить в кино без компании	Go to the cinema on your own	Будешь выглядеть {одиноким и жалким|одинокой и жалкой}	You'll look lonely and pathetic
+self-14	SELF	2	Провести день без соцсетей	Spend a day off social media	Будет тревожно и пусто	You'll feel anxious and empty
+self-15	SELF	2	Отказать в просьбе, на которую обычно соглашаешься	Say no to a request you'd usually agree to	К тебе охладеют	People will go cold on you
+self-16	SELF	2	Провести час на выставке без компании	Spend an hour at an exhibition on your own	Станет неуютно, и уйдёшь через десять минут	You'll feel awkward and leave after ten minutes
+self-17	SELF	2	Рассказать близкому человеку, что тебя тревожит	Tell someone close what's worrying you	Тебя сочтут нытиком	They'll think you're a moaner
+self-18	SELF	2	Сделать дело на восемьдесят процентов и считать его готовым	Finish a task to eighty per cent and call it done	Кто-нибудь заметит недоделки и осудит	Someone will spot the gaps and judge you
+self-19	SELF	2	Поменять что-то в своей внешности на неделю	Change something about your look for a week	Заметят и будут подшучивать	People will notice and tease you
+self-20	SELF	2	Вслух похвалить себя при ком-нибудь за сделанное	Praise yourself out loud for something you did, in front of someone	Сочтут хвастовством	They'll think you're showing off
+self-21	SELF	2	Записать, чего хочется на самом деле, и сделать одно за неделю	Write down what you really want and do one of those things this week	Окажется, что ничего не хочется	It'll turn out you don't want anything
+self-22	SELF	2	Попросить друга назвать три твои сильные стороны	Ask a friend to name three of your strengths	Друг не сможет назвать ни одной	They won't be able to name a single one
+self-23	SELF	3	Съездить на день в незнакомый город без компании	Take a day trip to an unfamiliar town on your own	Растеряешься, и поездка будет испорчена	You'll get lost and the trip will be ruined
+self-24	SELF	3	Записаться на первую встречу с психологом	Book a first session with a therapist	Психолог решит, что твои проблемы — ерунда	They'll think your problems are trivial
+self-25	SELF	3	Отказаться от одной обязанности, которая держится только на привычке	Give up one duty you keep only out of habit	Все скажут, что ты их {подвёл|подвела}	Everyone will say you've let them down
+self-26	SELF	3	Рассказать близким о важном решении, не спрашивая одобрения	Tell people close to you about an important decision without asking for approval	Осудят и начнут отговаривать	They'll judge you and try to talk you out of it
+self-27	SELF	3	Записаться на то, что давно откладываешь «на потом»	Sign up for something you've long put off “for later”	Бросишь, и снова будет стыдно	You'll drop it and feel ashamed again
+self-28	SELF	3	Неделю каждый день делать одно дело только для себя	Do one thing just for yourself every day for a week	Остальное развалится, а близкие обидятся	Everything else will fall apart and people will feel neglected
+craft-01	CRAFT	1	Показать свой рисунок трём людям	Show a drawing of yours to three people	Похвалят из вежливости, а про себя посмеются	They'll praise it out of politeness and laugh inside
+craft-02	CRAFT	1	Задать вопрос на лекции или занятии	Ask a question in a lecture or class	Преподаватель скажет, что это все знают	The teacher will say everyone knows that
+craft-03	CRAFT	1	Сделать набросок за десять минут и ничего не стирать	Make a ten-minute sketch and don't erase anything	Получится так плохо, что захочется бросить	It'll be so bad you'll want to give up
+craft-04	CRAFT	1	Попеть дома в полный голос, когда соседи могут услышать	Sing at full voice at home where the neighbours could hear	Соседи постучат в стену	The neighbours will bang on the wall
+craft-05	CRAFT	1	Написать короткий отзыв о книге и выложить его	Write a short book review and post it	Напишут, что ты ничего не {понял|поняла}	Someone will say you missed the point
+craft-06	CRAFT	1	Сказать преподавателю: «Я не {понял|поняла}, объясните ещё раз»	Tell the teacher “I didn't get it, could you explain again?”	Преподаватель раздражённо вздохнёт	The teacher will sigh in irritation
+craft-07	CRAFT	1	Сфотографировать что-то красивое на улице и выложить	Photograph something beautiful outside and post it	Никто не отреагирует	Nobody will react
+craft-08	CRAFT	1	Поговорить пять минут на иностранном языке с носителем	Talk for five minutes in a foreign language with a native speaker	Не поймут ни слова, и будет стыдно	They won't understand a word and you'll be embarrassed
+craft-09	CRAFT	1	Показать свой рассказ или стихотворение одному человеку	Show a story or poem you wrote to one person	Скажут, что это графомания	They'll say it's drivel
+craft-10	CRAFT	1	Приготовить блюдо по новому рецепту и угостить домашних	Cook a new recipe and serve it to your household	Никто не станет есть	Nobody will eat it
+craft-11	CRAFT	1	Пятнадцать минут поучиться чему-то новому по видеоуроку	Spend fifteen minutes on a video lesson in something new	Ничего не поймёшь и почувствуешь себя {бездарным|бездарной}	You'll understand nothing and feel talentless
+craft-12	CRAFT	1	Ответить на занятии, даже когда в ответе нет уверенности	Answer a question in class even when you're not sure	Ответ окажется неверным, и все засмеются	You'll be wrong and everyone will laugh
+craft-13	CRAFT	2	Сыграть или спеть кому-нибудь одну песню	Play or sing one song for someone	Собьёшься на середине	You'll mess up halfway through
+craft-14	CRAFT	2	Сходить на пробное занятие по рисованию, лепке или музыке	Go to a trial class in drawing, pottery or music	Будешь хуже всех	You'll be the worst there
+craft-15	CRAFT	2	Выложить свою работу без приписки «это так, черновик»	Post your work online without adding “it's just a draft”	Раскритикуют в пух и прах	It'll get torn to shreds
+craft-16	CRAFT	2	Попросить знающего человека разобрать твою работу	Ask someone who knows the field to critique your work	Скажут, что у тебя нет способностей	They'll say you have no talent
+craft-17	CRAFT	2	Записаться на курс, где большинство моложе тебя	Enrol on a course where most people are younger than you	Будешь выглядеть нелепо среди молодёжи	You'll look ridiculous among the young ones
+craft-18	CRAFT	2	Прочитать вслух свой текст на встрече литературного клуба	Read your writing aloud at a writing group	Голос задрожит, и все заметят	Your voice will shake and everyone will notice
+craft-19	CRAFT	2	Сделать кому-нибудь подарок своими руками	Give someone a handmade present	Подарок покажется дешёвым и нелепым	It'll seem cheap and silly
+craft-20	CRAFT	2	Задать вопрос на профильном форуме, признавшись, что ты новичок	Ask a question on a specialist forum, admitting you're a beginner	Ответят «загугли» и заминусуют	They'll say “just google it” and downvote you
+craft-21	CRAFT	2	За неделю довести до конца небольшую работу, пусть неидеально	Finish a small piece of work within a week, even if it's imperfect	Готовую работу будет стыдно показать	You'll be too ashamed to show the result
+craft-22	CRAFT	2	Сыграть близким на инструменте, не останавливаясь на ошибках	Play an instrument for your family without stopping at mistakes	Все услышат ошибки и поморщатся	Everyone will hear the mistakes and wince
+craft-23	CRAFT	3	Выступить на открытом микрофоне	Perform at an open mic	Освистают или встретят гробовой тишиной	You'll be booed or met with dead silence
+craft-24	CRAFT	3	Отправить свою работу на конкурс или в журнал	Submit your work to a competition or a magazine	Отвергнут, и это докажет, что ты бездарность	It'll be rejected, proving you've no talent
+craft-25	CRAFT	3	Провести для знакомых мастер-класс по тому, что умеешь	Run a small workshop for friends on something you can do	Знаний не хватит, и все разочаруются	You won't know enough and everyone will be disappointed
+craft-26	CRAFT	3	Сдать экзамен по языку или пройти пробный тест	Take a language exam or a mock test	Провалишь с позором	You'll fail miserably
+craft-27	CRAFT	3	Устроить небольшую выставку своих работ дома или в сети	Hold a small show of your work at home or online	Никто не придёт	Nobody will come
+craft-28	CRAFT	3	Завести блог о своём увлечении и выложить первые три записи	Start a blog about your hobby and post the first three entries	Никто не прочитает, а знакомые посмеются	Nobody will read it and friends will laugh

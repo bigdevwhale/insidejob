@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inside Job</string>
+    <string name="tab_bank">Bank</string>
+    <string name="tab_crew">Crew</string>
+    <string name="tab_jobs">Jobs</string>
+    <string name="tab_loot">Loot</string>
+</resources>

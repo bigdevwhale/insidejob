@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дело века</string>
+    <string name="tab_bank">Банк</string>
+    <string name="tab_crew">Команда</string>
+    <string name="tab_jobs">Дела</string>
+    <string name="tab_loot">Добыча</string>
+</resources>

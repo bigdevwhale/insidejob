@@ -1,0 +1,304 @@
+mind-01	MIND	Откуда ты знаешь, что он думает именно это? Он сам сказал?	How do you know that’s what they think? Did they say so?
+mind-02	MIND	Что ещё мог думать этот человек в ту минуту? Назови хотя бы два варианта.	What else could that person have been thinking just then? Name at least two options.
+mind-03	MIND	Ты {спрашивал|спрашивала} его об этом прямо? Если нет — что мешает?	Have you asked them directly? If not, what’s stopping you?
+mind-04	MIND	Сколько раз ты {угадывал|угадывала} чужие мысли и {ошибался|ошибалась}? Вспомни хоть один случай.	How often have you guessed someone’s thoughts and got it wrong? Recall just one time.
+mind-05	MIND	Люди обычно заняты собой. О чём он скорее думал — о тебе или о своём?	People are mostly busy with themselves. What were they more likely thinking about — you, or their own stuff?
+mind-06	MIND	Какой факт, а не догадка, говорит, что тебя осуждают?	What fact, not a guess, says you’re being judged?
+mind-07	MIND	Этот хмурый взгляд — что ещё он может значить, кроме недовольства тобой?	That frown — what else could it mean besides displeasure with you?
+mind-08	MIND	Слышишь? Щёлкает не там. Ты слышишь свои мысли, а не его. Чьи слова ты ему приписываешь?	Hear that? The click’s in the wrong place. You’re hearing your thoughts, not theirs. Whose words are you putting in their mouth?
+mind-09	MIND	Если бы друг рассказал такую же историю, ты бы {поверил|поверила}, что все о нём так думают?	If a friend told you the same story, would you believe everyone thinks that of them?
+mind-10	MIND	Какие признаки говорят, что этот человек относится к тебе неплохо?	What signs suggest this person actually thinks fairly well of you?
+mind-11	MIND	Ты {сам|сама} судишь других так строго, как, по-твоему, они судят тебя?	Do you judge others as harshly as you think they judge you?
+mind-12	MIND	Как узнать, что он думает, не гадая? Одним простым действием.	How could you find out what they think without guessing? One simple step.
+mind-13	MIND	Когда этот человек молчит, что это обычно значит у него?	When this person goes quiet, what does it usually mean for them?
+mind-14	MIND	Сколько времени, по-твоему, другие думают о тебе? Минуту в день? Меньше?	How much time do you think others spend thinking about you? A minute a day? Less?
+mind-15	MIND	Если ты ошибаешься насчёт его мыслей, что тогда меняется?	If you’re wrong about what they think, what changes?
+mind-16	MIND	Сорок лет слушаю замки, и ни один не сказал, что думает. Откуда у тебя такой слух на людей?	Forty years listening to locks, and not one told me what it thought. Where did you get such good hearing for people?
+fortune-01	FORTUNE	Откуда ты знаешь, чем это кончится? Что ты видишь, а что додумываешь?	How do you know how this ends? What do you actually see, and what are you filling in?
+fortune-02	FORTUNE	Сколько твоих мрачных прогнозов сбылось? А сколько — нет?	How many of your gloomy forecasts came true? And how many didn’t?
+fortune-03	FORTUNE	Назови три исхода, кроме того, которого ты боишься.	Name three outcomes besides the one you fear.
+fortune-04	FORTUNE	Какой исход самый вероятный — не худший и не лучший, а обычный?	What’s the most likely outcome — not the worst, not the best, just the ordinary one?
+fortune-05	FORTUNE	Вспомни, когда ты {ждал|ждала} провала, а вышло нормально. Как это было?	Recall a time you expected to fail and it went fine. How did it go?
+fortune-06	FORTUNE	Если бы пришлось поставить деньги на твой прогноз, ты бы {поставил|поставила}? Сколько?	If you had to bet money on your forecast, would you? How much?
+fortune-07	FORTUNE	Что ты знаешь наверняка, а что только предполагаешь?	What do you know for certain, and what are you only assuming?
+fortune-08	FORTUNE	Даже если не выйдет с первого раза — что будет со второго?	Even if it doesn’t work the first time, what about the second?
+fortune-09	FORTUNE	Что ты потеряешь, если попробуешь и узнаешь точно?	What do you lose by trying and finding out for sure?
+fortune-10	FORTUNE	Я не раз думал, что замок не поддастся, а он поддавался. Когда твоё «не выйдет» уже ошибалось?	More than once I thought a lock wouldn’t give, and it gave. When has your “it won’t work” been wrong before?
+fortune-11	FORTUNE	Если честно признать, что исход неизвестен, — что ты сделаешь?	If you honestly admit you don’t know the outcome, what will you do?
+fortune-12	FORTUNE	Какие шансы ты бы {дал|дала} другому человеку на своём месте? А почему себе меньше?	What chances would you give someone else in your shoes? Why less for yourself?
+fortune-13	FORTUNE	Что должно случиться, чтобы твой прогноз не сбылся? Это так уж невозможно?	What would have to happen for your forecast not to come true? Is that really impossible?
+fortune-14	FORTUNE	Твой прогноз держится на опыте или на страхе? Чего в нём больше?	Is your forecast built on experience or on fear? Which is there more of?
+fortune-15	FORTUNE	Если оглянуться через год, что, скорее всего, окажется правдой?	Looking back a year from now, what’s most likely to have turned out true?
+fortune-16	FORTUNE	Какой маленький шаг уже на этой неделе покажет, {прав|права} ты или нет?	What small step would show, this very week, whether you’re right?
+cat-01	CATASTROPHE	Допустим, худшее случилось. Что ты будешь делать на следующий день?	Say the worst happens. What do you do the next day?
+cat-02	CATASTROPHE	Насколько это плохо от одного до десяти? А через месяц?	How bad is it, from one to ten? And a month from now?
+cat-03	CATASTROPHE	Ты уже {переживал|переживала} тяжёлое. Как ты {справился|справилась} тогда?	You’ve been through hard things before. How did you cope then?
+cat-04	CATASTROPHE	Что самое худшее, что самое лучшее и что самое вероятное?	What’s the worst case, the best case, and the most likely one?
+cat-05	CATASTROPHE	Будет ли это важно через пять лет?	Will this matter in five years?
+cat-06	CATASTROPHE	Кто или что поможет тебе, если всё пойдёт плохо?	Who or what would help you if it goes badly?
+cat-07	CATASTROPHE	Где в цепочке «а потом всё рухнет» самое слабое звено?	In the chain of “and then it all falls apart”, where’s the weakest link?
+cat-08	CATASTROPHE	Я видел сигнализации, которые воют от кошки. Твоя воет от пожара или от кошки?	I’ve seen alarms that howl at a cat. Is yours howling at a fire or at a cat?
+cat-09	CATASTROPHE	Что можно будет исправить, если случится худшее?	What could still be fixed if the worst happens?
+cat-10	CATASTROPHE	Сколько шагов между «немного не так» и «катастрофа»? Каждый из них неизбежен?	How many steps lie between “a bit off” and “disaster”? Is each one inevitable?
+cat-11	CATASTROPHE	Если это случится с другом, ты скажешь ему, что жизнь кончена?	If this happened to a friend, would you tell them their life was over?
+cat-12	CATASTROPHE	Что ты можешь сделать уже сейчас, чтобы смягчить худший вариант?	What could you do now to soften the worst case?
+cat-13	CATASTROPHE	Бывало, что ты {ждал|ждала} беды, а вышла просто неприятность?	Has it happened that you braced for disaster and got a mere nuisance?
+cat-14	CATASTROPHE	Что останется у тебя, даже если всё сорвётся?	What stays yours, even if it all falls through?
+cat-15	CATASTROPHE	Это будет неприятно или правда невыносимо? Почему?	Would it be unpleasant, or truly unbearable? Why?
+cat-16	CATASTROPHE	Как ты это назовёшь, если убрать слово «катастрофа»?	What would you call it if you took away the word “disaster”?
+all-01	ALLNONE	Что лежит между «идеально» и «провал»? Назови пару промежуточных оценок.	What lies between “perfect” and “failure”? Name a couple of in-between grades.
+all-02	ALLNONE	Сколько процентов получилось? Не всё и не ноль — сколько?	What percentage worked out? Not all, not zero — how much?
+all-03	ALLNONE	Если ты {сделал|сделала} половину, это ноль или половина?	If you did half, is that zero or half?
+all-04	ALLNONE	Что в этой истории было хоть немного хорошим?	What in this story was even a little bit good?
+all-05	ALLNONE	Какая оценка была бы честной: не отличная и не позорная?	What grade would be fair — not excellent, not shameful?
+all-06	ALLNONE	Замок не открывается разом: сначала один штифт, потом второй. Какой штифт ты уже {поднял|подняла}?	A lock doesn’t open all at once — one pin, then the next. Which pin have you already lifted?
+all-07	ALLNONE	Что значит «достаточно хорошо» в этом деле?	What does “good enough” mean here?
+all-08	ALLNONE	Один промах отменяет всё остальное? Почему?	Does one slip cancel everything else? Why?
+all-09	ALLNONE	Как бы ты {оценил|оценила} чужую работу с таким же результатом?	How would you rate someone else’s work with the same result?
+all-10	ALLNONE	Если нарисовать шкалу от нуля до ста, где ты на ней сейчас?	If you drew a scale from zero to a hundred, where are you on it now?
+all-11	ALLNONE	Ты {встречал|встречала} людей, у которых всегда «всё» или всегда «ничего»?	Have you ever met people who are always “everything” or always “nothing”?
+all-12	ALLNONE	Что ты потеряешь, если разрешишь себе сделать это наполовину?	What would you lose if you let yourself do this halfway?
+all-13	ALLNONE	Какая часть удалась лучше всего?	Which part went best?
+all-14	ALLNONE	Если не идеально — значит, совсем плохо? Кто придумал это правило?	If it’s not perfect, it’s all bad? Who made that rule?
+all-15	ALLNONE	Какой шаг можно сделать, даже если целиком сейчас не выйдет?	What step can you take even if the whole thing won’t work right now?
+all-16	ALLNONE	Если сегодня не «всё», то что сегодня было хотя бы «кое-что»?	If today wasn’t “everything”, what today was at least “something”?
+over-01	OVERGEN	«Всегда» — это сколько раз на самом деле? Посчитай.	“Always” — how many times, really? Count them.
+over-02	OVERGEN	Вспомни хоть один раз, когда было иначе.	Recall even one time it was different.
+over-03	OVERGEN	Сколько раз было так, а сколько — нет? Хотя бы примерно.	How many times was it like this, and how many not? Roughly.
+over-04	OVERGEN	Это «никогда» или «пока не было»?	Is it “never”, or “not yet”?
+over-05	OVERGEN	Если заменить «всегда» на «иногда», фраза станет честнее?	If you swap “always” for “sometimes”, does the sentence get more honest?
+over-06	OVERGEN	На скольких случаях держится это правило? Хватит ли их, чтобы судить?	How many cases does this rule stand on? Are they enough to judge by?
+over-07	OVERGEN	Один сломанный замок — ещё не все замки на свете. Сколько у тебя таких случаев, кроме этого?	One broken lock isn’t every lock in the world. How many cases like this do you have besides this one?
+over-08	OVERGEN	Что было по-другому в тех случаях, когда всё вышло?	What was different in the times it worked out?
+over-09	OVERGEN	Ты {говорил|говорила} «вечно у меня так» о чём-то, что потом изменилось?	Have you ever said “it’s always like this” about something that later changed?
+over-10	OVERGEN	Кто такие «все»? Назови по именам.	Who exactly is “everyone”? Name them.
+over-11	OVERGEN	Так было со всеми людьми или с одним-двумя?	Was it like that with everyone, or with one or two people?
+over-12	OVERGEN	Ты судишь по последнему разу или по всем сразу?	Are you judging by the last time, or by all of them?
+over-13	OVERGEN	Если бы ты месяц {вёл|вела} дневник, что бы он показал?	If you kept a diary for a month, what would it show?
+over-14	OVERGEN	Где это правило точно не работает?	Where does this rule definitely not hold?
+over-15	OVERGEN	Как звучит эта мысль без слов «всегда», «никогда», «все» и «никто»?	How does this thought sound without “always”, “never”, “everyone” and “no one”?
+over-16	OVERGEN	Что должно случиться, чтобы ты {признал|признала} исключение?	What would it take for you to admit an exception?
+label-01	LABEL	Ты {назвал|назвала} себя одним словом. Что в тебе в это слово не помещается?	You’ve summed yourself up in one word. What about you doesn’t fit into it?
+label-02	LABEL	Ты {сделал|сделала} глупость или ты {глупый|глупая}? Есть разница?	Did you do something foolish, or are you a fool? Is there a difference?
+label-03	LABEL	Как описать случившееся без ярлыка — просто что ты {сделал|сделала}?	How would you describe what happened without a label — just what you did?
+label-04	LABEL	Назови три своих поступка, которые этому ярлыку противоречат.	Name three things you’ve done that contradict this label.
+label-05	LABEL	Кто первым повесил на тебя это слово?	Who first hung this word on you?
+label-06	LABEL	Ярлык — как бирка на ключе: удобно, но по бирке замок не откроешь. Что ты {делал|делала} на самом деле?	A label’s like a tag on a key — handy, but no lock opens by the tag. What did you actually do?
+label-07	LABEL	Ты бы {назвал|назвала} так друга за тот же поступок?	Would you call a friend that for the same thing?
+label-08	LABEL	Сколько раз нужно ошибиться, чтобы стать «неудачником»? Кто считает?	How many mistakes does it take to become a “loser”? Who’s counting?
+label-09	LABEL	Что это слово позволяет тебе не делать?	What does this word let you off doing?
+label-10	LABEL	Какие ещё слова о тебе были бы правдой? Назови пару.	What other words about you would also be true? Name a couple.
+label-11	LABEL	Это слово описывает тебя всегда или только в тот вечер?	Does this word describe you always, or only that evening?
+label-12	LABEL	Как описал бы тебя человек, который давно тебя знает и хорошо к тебе относится?	How would someone who’s known you long and likes you describe you?
+label-13	LABEL	Что изменится, если сказать «я {ошибся|ошиблась}», а не «я {никчёмный|никчёмная}»?	What changes if you say “I made a mistake” instead of “I’m useless”?
+label-14	LABEL	Это слово про тебя или про то, как ты себя сейчас чувствуешь?	Is that word about you, or about how you feel right now?
+label-15	LABEL	Ты знаешь кого-то, кого называли так же, а он оказался другим?	Do you know anyone who got called the same thing and turned out otherwise?
+label-16	LABEL	Ты {весь|вся} из одного слова? Какая часть тебя с ним не согласна?	Are you made of a single word? Which part of you disagrees with it?
+should-01	SHOULD	Кто сказал, что ты {должен|должна}? Чьё это правило?	Who said you “must”? Whose rule is that?
+should-02	SHOULD	Что будет, если заменить «я {должен|должна}» на «я {хотел|хотела} бы»?	What happens if you swap “I have to” for “I’d like to”?
+should-03	SHOULD	Что случится, если ты этого не сделаешь? По-настоящему, а не в страшилке.	What happens if you don’t do it? Really, not in the horror version.
+should-04	SHOULD	Это правило тебе помогает или только бьёт?	Does this rule help you, or only beat you up?
+should-05	SHOULD	Ты требуешь этого от других так же строго, как от себя?	Do you demand this of others as strictly as of yourself?
+should-06	SHOULD	Когда появилось это правило? Подходит ли оно тебе {сегодняшнему|сегодняшней}?	When did this rule appear? Does it still fit who you are today?
+should-07	SHOULD	Сколько у тебя в голове всяких «надо»? Назови три самых громких.	How many “musts” are in your head? Name the three loudest.
+should-08	SHOULD	Чем «надо» отличается от «мне это важно»? Что из этого здесь правда?	How is “I must” different from “it matters to me”? Which is true here?
+should-09	SHOULD	Чего ты хочешь на самом деле, если убрать слово «надо»?	What do you actually want, if you remove the word “must”?
+should-10	SHOULD	Я знал медвежатников, что ждали идеальных условий. Так и сидели без дела. Какое «должно быть идеально» держит тебя?	I knew safecrackers who waited for perfect conditions. They sat idle for good. What “it has to be perfect” is holding you?
+should-11	SHOULD	Как сказать то же самое правило, только мягче?	How could you say the same rule, only gentler?
+should-12	SHOULD	Кому станет хуже, если ты нарушишь это правило? Правда станет?	Who’d be worse off if you broke this rule? Really?
+should-13	SHOULD	Ты {простил|простила} бы другу, если бы он этому правилу не соответствовал?	Would you forgive a friend for not living up to this rule?
+should-14	SHOULD	Чем ты платишь за то, чтобы соблюдать это «надо»?	What do you pay to keep this “must”?
+should-15	SHOULD	Что бы ты {сделал|сделала}, будь это просьбой, а не приказом?	What would you do if it were a request rather than an order?
+should-16	SHOULD	Как звучит это правило с исключениями? Хотя бы с одним.	How does this rule sound with exceptions? Even just one.
+filter-01	FILTER	Что ещё было в этот день, кроме плохого?	What else happened that day besides the bad?
+filter-02	FILTER	Назови три вещи, которые прошли нормально. Пусть мелкие.	Name three things that went fine. Small ones count.
+filter-03	FILTER	Если бы кто-то посмотрел на этот день со стороны, что бы он увидел целиком?	If someone watched this day from outside, what would they see as a whole?
+filter-04	FILTER	Ты помнишь одно замечание. А что говорили до и после него?	You remember one remark. What was said before and after it?
+filter-05	FILTER	Какая доля этой истории плохая? Половина? Десятая?	What share of this story is bad? Half? A tenth?
+filter-06	FILTER	Хороший медвежатник слушает все штифты, а не один заевший. Что ещё слышно, если прислушаться?	A good safecracker listens to every pin, not just the sticky one. What else can you hear if you listen?
+filter-07	FILTER	Что хорошего ты не {заметил|заметила}, пока {смотрел|смотрела} на плохое?	What good did you miss while you were looking at the bad?
+filter-08	FILTER	Если бы ты неделю {записывал|записывала} только хорошее, что попало бы в список?	If you wrote down only the good for a week, what would make the list?
+filter-09	FILTER	Из десяти отзывов один плохой. Почему он громче остальных девяти?	One review out of ten is bad. Why is it louder than the other nine?
+filter-10	FILTER	Что здесь работает, пусть и не идеально?	What here works, even if not perfectly?
+filter-11	FILTER	Какие три удачи были сегодня, если поискать?	What three bits of luck were there today, if you look?
+filter-12	FILTER	Что остаётся за кадром, когда ты вспоминаешь только это?	What’s left out of the frame when you remember only this?
+filter-13	FILTER	Кто сегодня был к тебе добр, хоть чуть-чуть?	Who was kind to you today, even a little?
+filter-14	FILTER	Если плохое — одна деталь картины, что на остальной картине?	If the bad is one detail of the picture, what’s on the rest of it?
+filter-15	FILTER	Ты смотришь на одно пятно. Сколько вокруг него чистого места?	You’re staring at one stain. How much clean space is around it?
+filter-16	FILTER	Как описал бы этот день тот, кто тебя любит?	How would someone who loves you describe this day?
+disc-01	DISCOUNT	Почему хорошее «не считается»? Кто так решил?	Why doesn’t the good “count”? Who decided that?
+disc-02	DISCOUNT	Если бы плохое случилось так же случайно, ты бы его тоже не {считал|считала}?	If the bad happened just as much by chance, would you discount it too?
+disc-03	DISCOUNT	Что ты {сделал|сделала} {сам|сама}, чтобы это получилось?	What did you do yourself to make this happen?
+disc-04	DISCOUNT	Тебя похвалили. Почему ты {решил|решила}, что из вежливости?	You were praised. Why did you decide it was just politeness?
+disc-05	DISCOUNT	Если бы это сделал друг, ты бы тоже {сказал|сказала} «просто повезло»?	If a friend did this, would you also say “just lucky”?
+disc-06	DISCOUNT	Удача без рук сейфов не открывает. Что сделали твои руки?	Luck without hands opens no safes. What did your hands do?
+disc-07	DISCOUNT	Что ты отвечаешь, когда тебя благодарят? А что можно ответить?	What do you say when you’re thanked? And what could you say instead?
+disc-08	DISCOUNT	Если «любой бы смог», почему это {сделал|сделала} именно ты?	If “anyone could”, why was it you who did it?
+disc-09	DISCOUNT	Что нужно, чтобы ты {признал|признала} успех? Где эта планка и кто её поставил?	What would it take for you to accept a success? Where’s that bar, and who set it?
+disc-10	DISCOUNT	Какое своё достижение ты чаще всего принижаешь? Что в нём было по-настоящему трудно?	Which of your achievements do you play down most? What was genuinely hard about it?
+disc-11	DISCOUNT	«Да, но…» — что стоит до этого «но»? Скажи только эту часть.	“Yes, but…” — what comes before the “but”? Say only that part.
+disc-12	DISCOUNT	Что изменится, если просто сказать «спасибо» и ничего не добавлять?	What changes if you just say “thank you” and add nothing?
+disc-13	DISCOUNT	Сколько хорошего за месяц ты {списал|списала} на случай? Сколько это вместе?	How much good this month did you put down to chance? What does it add up to?
+disc-14	DISCOUNT	Если хорошее не считать, честный ли выходит счёт?	If the good isn’t counted, is the tally honest?
+disc-15	DISCOUNT	Что из сделанного тобой было трудным, хотя со стороны казалось лёгким?	What did you do that was hard, though it looked easy from outside?
+disc-16	DISCOUNT	Если твой успех ничего не значит, что тогда значит чужой, точно такой же?	If your success means nothing, what does someone else’s identical one mean?
+emo-01	EMOTION	Тебе страшно. Значит ли это, что опасно?	You’re scared. Does that mean it’s dangerous?
+emo-02	EMOTION	Что из этого факт, а что чувство? Раздели.	What part of this is fact, and what part is feeling? Split them.
+emo-03	EMOTION	Бывало, что ты {чувствовал|чувствовала} себя глупо, а потом оказалось, что всё в порядке?	Have you ever felt stupid and then it turned out all was fine?
+emo-04	EMOTION	Если бы чувство замолчало, что сказали бы факты?	If the feeling went quiet, what would the facts say?
+emo-05	EMOTION	Звенит сигнализация — но вор ли это? Бывает, просто ветер в окне. Что звенит у тебя сейчас?	The alarm’s ringing — but is it a thief? Sometimes it’s just wind at the window. What’s ringing in you now?
+emo-06	EMOTION	Насколько сильно это чувство, от нуля до десяти? А насколько ты веришь мысли?	How strong is the feeling, zero to ten? And how much do you believe the thought?
+emo-07	EMOTION	Ты {устал|устала}, {голоден|голодна} или не {выспался|выспалась}? Как это красит мысль?	Are you tired, hungry or short on sleep? How does that colour the thought?
+emo-08	EMOTION	Что бы ты {думал|думала} об этом в спокойный день?	What would you think of this on a calm day?
+emo-09	EMOTION	Чувство вины — это доказательство вины?	Is feeling guilty proof of guilt?
+emo-10	EMOTION	Если к утру чувство пройдёт, мысль останется правдой?	If the feeling’s gone by morning, will the thought still be true?
+emo-11	EMOTION	Что это чувство пытается тебе сказать — и что оно преувеличивает?	What is this feeling trying to tell you — and what is it exaggerating?
+emo-12	EMOTION	Какие улики ты бы {принёс|принесла} в суд, кроме «я так чувствую»?	What evidence would you bring to court, besides “I feel it”?
+emo-13	EMOTION	Когда ты {чувствовал|чувствовала} то же самое и {ошибся|ошиблась}?	When did you feel the same and turn out to be wrong?
+emo-14	EMOTION	Чувство настоящее. А вывод из него?	The feeling is real. Is the conclusion?
+emo-15	EMOTION	Как бы ты {описал|описала} ситуацию тому, кто не знает, что ты чувствуешь?	How would you describe the situation to someone who can’t see how you feel?
+emo-16	EMOTION	Что ты сделаешь, если позволишь чувству быть, но не станешь ему подчиняться?	What would you do if you let the feeling be, but didn’t obey it?
+pers-01	PERSONAL	Что ещё, кроме тебя, повлияло на то, как всё вышло?	What else, besides you, affected how it turned out?
+pers-02	PERSONAL	Если разрезать ответственность, как пирог, — какой кусок твой?	If you cut the responsibility like a pie, which slice is yours?
+pers-03	PERSONAL	У этого человека был свой день и свои заботы. Что ещё могло его расстроить?	This person had their own day and their own worries. What else could have upset them?
+pers-04	PERSONAL	Что здесь было в твоей власти, а что нет?	What here was in your control, and what wasn’t?
+pers-05	PERSONAL	Если бы тебя там не было, этого бы не случилось? Точно?	If you hadn’t been there, would it not have happened? Are you sure?
+pers-06	PERSONAL	Когда сейф не открывается, я не виню себя за погоду. Сколько тут погоды, а сколько твоих рук?	When a safe won’t open, I don’t blame myself for the weather. How much here is weather, and how much your hands?
+pers-07	PERSONAL	Ты бы {обвинил|обвинила} друга в том же самом?	Would you blame a friend for the very same thing?
+pers-08	PERSONAL	Какие обстоятельства ты не учитываешь?	What circumstances are you leaving out?
+pers-09	PERSONAL	Кто ещё в этом участвовал? Какую часть несут они?	Who else was involved? What share do they carry?
+pers-10	PERSONAL	Почему ты {решил|решила}, что его плохое настроение — из-за тебя?	Why did you decide their bad mood is because of you?
+pers-11	PERSONAL	Чем «я {виноват|виновата}» отличается от «я в этом {участвовал|участвовала}»?	How is “it’s my fault” different from “I was part of it”?
+pers-12	PERSONAL	Если твоя доля есть, что с ней можно сделать, кроме как себя казнить?	If you do have a share, what can you do with it besides beating yourself up?
+pers-13	PERSONAL	Кто вообще отвечает за чужое настроение? Ты правда {один|одна} из них?	Who is responsible for someone else’s mood anyway? Are you really one of them?
+pers-14	PERSONAL	Что случилось бы, окажись на твоём месте другой человек?	What would have happened with someone else in your place?
+pers-15	PERSONAL	Как объяснил бы случившееся посторонний, который ничего о тебе не знает?	How would a stranger who knows nothing about you explain what happened?
+pers-16	PERSONAL	За что ты здесь действительно отвечаешь? Одна-две вещи.	What are you actually responsible for here? One or two things.
+comp-01	COMPARE	С кем ты себя сравниваешь — со всем человеком или с его лучшей стороной?	What are you comparing yourself with — the whole person, or their best side?
+comp-02	COMPARE	Что ты знаешь о его трудностях, о которых он не рассказывает?	What do you know of the struggles they don’t talk about?
+comp-03	COMPARE	Сравни себя с собой год назад. Что изменилось?	Compare yourself with you a year ago. What’s changed?
+comp-04	COMPARE	Сколько лет он к этому шёл? А ты сколько?	How many years did it take them to get there? And you?
+comp-05	COMPARE	Ты видишь его витрину и свою кладовку. Честное ли это сравнение?	You see their shop window and your own storeroom. Is that a fair comparison?
+comp-06	COMPARE	У каждого медвежатника свой почерк. Зачем тебе чужие руки? Что умеют твои?	Every safecracker has their own touch. Why do you want someone else’s hands? What can yours do?
+comp-07	COMPARE	Что есть у тебя, чего нет у того, с кем ты себя сравниваешь?	What do you have that the person you compare yourself with doesn’t?
+comp-08	COMPARE	Если бы он сравнивал себя с тобой, чему бы он позавидовал?	If they compared themselves with you, what might they envy?
+comp-09	COMPARE	Это сравнение помогает тебе расти или только грызёт?	Does this comparison help you grow, or just gnaw at you?
+comp-10	COMPARE	Что ты {мог|могла} бы взять у него как пример, а не как приговор?	What could you take from them as an example rather than a verdict?
+comp-11	COMPARE	Вы начинали с одного и того же места?	Did the two of you start from the same place?
+comp-12	COMPARE	Почему из тысячи людей ты {выбрал|выбрала} для сравнения самого успешного?	Why, out of a thousand people, did you pick the most successful one to compare with?
+comp-13	COMPARE	Сколько людей в этом деле позади тебя? Их ты считаешь?	How many people in this are behind you? Do you count them?
+comp-14	COMPARE	Что для тебя «достаточно», если ни с кем не сравнивать?	What is “enough” for you, without comparing to anyone?
+comp-15	COMPARE	Какую цену он платит за то, чему ты завидуешь?	What price do they pay for what you envy?
+comp-16	COMPARE	Если бы рядом никого не было, чем бы ты {гордился|гордилась}?	If no one else were around, what would you be proud of?
+fixed-01	FIXED	Ты всегда {был таким|была такой}? Вспомни, когда было иначе.	Have you always been like this? Recall a time it was different.
+fixed-02	FIXED	Что в тебе изменилось за последние пять лет?	What has changed in you over the last five years?
+fixed-03	FIXED	Чему ты {научился|научилась} за последние годы, хотя раньше не {умел|умела}?	What have you learned in recent years that you couldn’t do before?
+fixed-04	FIXED	«Я {такой|такая}» — или «я так {привык|привыкла}»? В чём разница?	“I’m like this” — or “I’m used to this”? What’s the difference?
+fixed-05	FIXED	Я тоже не родился медвежатником: первый замок ковырял полгода. Что ты бросаешь, не дав себе и месяца?	I wasn’t born a safecracker either — my first lock took six months. What are you giving up on before even a month?
+fixed-06	FIXED	Кто из твоих знакомых сильно изменился? Что ему помогло?	Who do you know that changed a lot? What helped them?
+fixed-07	FIXED	Если добавить к этой фразе слово «пока», что изменится?	If you add “yet” to this sentence, what changes?
+fixed-08	FIXED	Сколько раз ты по-настоящему {пробовал|пробовала} по-другому?	How many times have you really tried another way?
+fixed-09	FIXED	Какая самая маленькая перемена здесь тебе по силам?	What’s the smallest change here you could manage?
+fixed-10	FIXED	Что тебе выгодно в том, чтобы считать это неизменным?	What do you gain by thinking this can’t change?
+fixed-11	FIXED	Ты — это твои привычки или тот, кто их выбирает?	Are you your habits, or the one who chooses them?
+fixed-12	FIXED	Что ты {думал|думала} о себе десять лет назад? Это всё ещё правда?	What did you think of yourself ten years ago? Is it all still true?
+fixed-13	FIXED	Это черта характера или навык, которого пока не хватает?	Is it a character trait, or a skill you don’t have yet?
+fixed-14	FIXED	Где ты уже бываешь {другим|другой} — на работе, с друзьями, в дороге?	Where are you already different — at work, with friends, on the road?
+fixed-15	FIXED	Кто тебе сказал, что люди не меняются? Он сам хоть раз менялся?	Who told you people don’t change? Did they ever change themselves?
+fixed-16	FIXED	Что ты сделаешь иначе на этой неделе, просто чтобы проверить?	What will you do differently this week, just to test it?
+cond-01	CONDITION	Ты в порядке, только если… А кто поставил это условие?	You’re okay only if… And who set that condition?
+cond-02	CONDITION	Что о тебе остаётся правдой, даже если условие не выполнено?	What about you stays true even if the condition isn’t met?
+cond-03	CONDITION	Ты ставишь такие же условия тем, кого любишь?	Do you put the same conditions on the people you love?
+cond-04	CONDITION	Если завтра ты не справишься, ты станешь хуже как человек?	If you fall short tomorrow, will you be worse as a person?
+cond-05	CONDITION	Кто ценит тебя не за результат? Назови хотя бы одного.	Who values you not for results? Name at least one person.
+cond-06	CONDITION	Сейф не дешевеет оттого, что его не открыли. Почему ты дешевеешь, когда не выходит?	A safe isn’t worth less because no one’s opened it. Why are you worth less when things don’t work out?
+cond-07	CONDITION	Что будет, если быть в порядке без всяких условий? Что ты потеряешь?	What if you were okay with no conditions at all? What would you lose?
+cond-08	CONDITION	Сколько раз условие выполнялось — и надолго ли тебе становилось хорошо?	How many times has the condition been met — and how long did you feel good?
+cond-09	CONDITION	Это условие ты {выбрал|выбрала} {сам|сама} или тебе его выдали?	Did you pick this condition yourself, or was it handed to you?
+cond-10	CONDITION	Как звучало бы условие помягче: «мне лучше, когда…», а не «я ничто, если…»?	How would a gentler version sound: “I’m better off when…” instead of “I’m nothing if…”?
+cond-11	CONDITION	Тебя любят только за то, что ты делаешь? Чем это доказано?	Are you loved only for what you do? What proves it?
+cond-12	CONDITION	Если друг не дотянет до этой планки, ты перестанешь его уважать?	If a friend fell short of this bar, would you stop respecting them?
+cond-13	CONDITION	Что ценного в тебе нельзя заработать или потерять за один день?	What’s valuable in you that can’t be earned or lost in a single day?
+cond-14	CONDITION	Когда ты впервые {решил|решила}, что право быть собой надо заслужить?	When did you first decide you had to earn the right to be yourself?
+cond-15	CONDITION	Какое условие ты {готов|готова} отменить хотя бы на неделю?	Which condition are you willing to drop, even for a week?
+cond-16	CONDITION	Кто ты, когда ничего не получилось?	Who are you when nothing has worked out?
+any-001	ANY	Какие факты говорят за эту мысль? Только факты.	What facts support this thought? Facts only.
+any-002	ANY	А какие факты говорят против неё?	And what facts go against it?
+any-003	ANY	Что бы ты {сказал|сказала} другу, который думает так о себе?	What would you say to a friend who thought this about themselves?
+any-004	ANY	Чей это голос? Кто говорил тебе это раньше?	Whose voice is that? Who used to tell you this?
+any-005	ANY	Сколько тебе было лет, когда ты впервые это {услышал|услышала}?	How old were you when you first heard this?
+any-006	ANY	Как сказать это честнее — не мягче, а точнее?	How could you put it more honestly — not softer, just more accurately?
+any-007	ANY	Какой самый маленький шаг проверит эту мысль?	What’s the smallest step that would test this thought?
+any-008	ANY	Что тебе даёт эта мысль? А чего она тебе стоит?	What does this thought give you? And what does it cost you?
+any-009	ANY	Каждый замок кто-то собирал. Кто собрал этот?	Every lock was put together by someone. Who put this one together?
+any-010	ANY	Представь человека, который давно тебя знает и желает тебе добра. Что он скажет об этой мысли?	Picture someone who’s known you long and wishes you well. What would they say about this thought?
+any-011	ANY	Если бы эта мысль была неправдой, как бы ты это {заметил|заметила}?	If this thought were untrue, how would you notice?
+any-012	ANY	Что бы ты {сделал|сделала} завтра, если бы в это не {верил|верила}?	What would you do tomorrow if you didn’t believe this?
+any-013	ANY	Эта мысль когда-то тебе помогала? А сейчас помогает?	Did this thought once help you? Does it still?
+any-014	ANY	От чего эта мысль тебя бережёт?	What is this thought protecting you from?
+any-015	ANY	Если бы это дело слушалось в суде, хватило бы улик?	If this case went to court, would there be enough evidence?
+any-016	ANY	Как бы ты {отнёсся|отнеслась} к этим словам, если бы их сказал незнакомец?	How would you take these words if a stranger said them?
+any-017	ANY	Что ты знаешь точно, а что достраиваешь сверху?	What do you know for sure, and what are you building on top?
+any-018	ANY	Слышишь, где щёлкает? Какое слово в этой мысли самое тяжёлое?	Hear where it clicks? Which word in this thought is the heaviest?
+any-019	ANY	Насколько ты в это веришь, от нуля до ста? А после этого разговора?	How much do you believe this, zero to a hundred? And after this talk?
+any-020	ANY	Что изменилось в твоей жизни с тех пор, как ты в это {поверил|поверила}?	What has changed in your life since you came to believe this?
+any-021	ANY	Ты бы {сказал|сказала} такое ребёнку?	Would you say this to a child?
+any-022	ANY	Когда эта мысль громче всего? В какое время, в каком месте?	When is this thought loudest? What time, what place?
+any-023	ANY	Если бы эту мысль тебе сегодня предложил чужой человек, ты бы её {взял|взяла}?	If a stranger offered you this thought today, would you take it?
+any-024	ANY	Чем ты рискуешь, если проверишь её на деле?	What do you risk by testing it for real?
+any-025	ANY	Что ты теряешь, пока держишься за неё?	What are you losing while you hold on to it?
+any-026	ANY	Какая версия этой мысли была бы правдой хотя бы наполовину?	What version of this thought would be at least half true?
+any-027	ANY	Кто в твоей жизни с этим не согласился бы? Почему?	Who in your life would disagree with this? Why?
+any-028	ANY	Как эта мысль влияет на то, что ты делаешь каждый день?	How does this thought shape what you do every day?
+any-029	ANY	Кому эта мысль удобна — тебе или кому-то ещё?	Who does this thought suit — you, or someone else?
+any-030	ANY	Если записать её на бумаге, она звучит так же убедительно?	Written down on paper, does it sound as convincing?
+any-031	ANY	Какое доказательство ты бы не {принял|приняла}, если бы речь шла о другом человеке?	What evidence wouldn’t you accept if it were about someone else?
+any-032	ANY	Это мысль или факт? Как их отличить?	Is this a thought or a fact? How can you tell?
+any-033	ANY	Где ты этому {научился|научилась} — дома, в школе, на работе?	Where did you learn this — at home, at school, at work?
+any-034	ANY	Кто был рядом, когда эта мысль появилась впервые?	Who was around when this thought first appeared?
+any-035	ANY	Что сказал бы тот, кто сказал это первым, если бы увидел тебя сегодня?	What would the person who first said it say if they saw you today?
+any-036	ANY	Будь эта мысль замком, где у неё самый слабый штифт?	If this thought were a lock, where’s its weakest pin?
+any-037	ANY	Что ты можешь сделать на этой неделе, чтобы её проверить? Одно действие.	What could you do this week to test it? One action.
+any-038	ANY	Какой результат проверки тебя бы удивил?	What result of a test would surprise you?
+any-039	ANY	Как бы это прозвучало из уст человека спокойного и справедливого?	How would it sound from someone calm and fair?
+any-040	ANY	Что в этой мысли правда, а что лишнее?	What in this thought is true, and what’s extra?
+any-041	ANY	Каких доказательств тебе бы хватило, чтобы передумать?	What evidence would be enough to change your mind?
+any-042	ANY	Как тебе живётся, когда ты в это веришь? А когда нет?	How does life feel when you believe this? And when you don’t?
+any-043	ANY	Что бы ты {делал|делала}, если бы {проснулся|проснулась} без этой мысли?	What would you do if you woke up without this thought?
+any-044	ANY	Сколько лет этой мысли? Она росла вместе с тобой?	How old is this thought? Did it grow up with you?
+any-045	ANY	Что бы ты {посоветовал|посоветовала} человеку ровно в твоём положении?	What would you advise someone in exactly your position?
+any-046	ANY	Есть ли люди, которые думают иначе и живут нормально?	Are there people who think otherwise and get on just fine?
+any-047	ANY	Если это правда, что из этого следует? И что не следует?	If it’s true, what follows from it? And what doesn’t?
+any-048	ANY	Ты {пришёл|пришла} к этому выводу {сам|сама} или его тебе передали?	Did you reach this conclusion yourself, or was it passed on to you?
+any-049	ANY	Что пришлось бы признать, если бы эта мысль оказалась неверной?	What would you have to admit if this thought turned out to be wrong?
+any-050	ANY	Что ты делаешь, чтобы эту мысль никогда не проверять?	What do you do so that you never have to test this thought?
+any-051	ANY	Какая мысль была бы полезнее на этом месте?	What thought would be more useful in its place?
+any-052	ANY	Сорок лет в деле, и крепче всех те замки, которые никто не трогал. Ты эту мысль хоть раз {проверял|проверяла}?	Forty years in the trade, and the toughest locks are the ones nobody’s touched. Have you ever once tested this thought?
+any-053	ANY	Что ты {думал|думала} об этом пять лет назад?	What did you think about this five years ago?
+any-054	ANY	Кому можно рассказать об этой мысли, чтобы услышать другой взгляд?	Who could you tell about this thought to hear another view?
+any-055	ANY	Когда эта мысль была неправдой, хотя бы раз?	When was this thought untrue, even once?
+any-056	ANY	Чем ты платишь за эту мысль — временем, людьми, возможностями?	What do you pay for this thought — time, people, chances?
+any-057	ANY	Что бы ты себе {разрешил|разрешила}, если бы этой мысли не было?	What would you allow yourself if this thought weren’t there?
+any-058	ANY	Ты бы {повторил|повторила} эту мысль вслух при друге? Как бы она прозвучала?	Would you say this thought aloud in front of a friend? How would it sound?
+any-059	ANY	Если бы ты {защищал|защищала} себя в суде, что бы ты {сказал|сказала}?	If you were defending yourself in court, what would you say?
+any-060	ANY	Что сказал бы тот, кто видел тебя и в трудный день, и в хороший?	What would someone who’s seen you on a hard day and a good day say?
+any-061	ANY	Какой маленький опыт можно поставить уже завтра?	What small experiment could you run tomorrow?
+any-062	ANY	Что ты будешь знать после проверки, чего не знаешь сейчас?	What will you know after the test that you don’t know now?
+any-063	ANY	Где ты впервые {увидел|увидела}, что так бывает?	Where did you first see that things go this way?
+any-064	ANY	Кто из взрослых в твоём детстве думал так же?	Which grown-up from your childhood thought the same way?
+any-065	ANY	Если бы так о себе думал близкий тебе человек, что бы ты {почувствовал|почувствовала}?	If someone close to you thought this of themselves, how would you feel?
+any-066	ANY	Что в этой мысли ты бы {оставил|оставила}, а что {выбросил|выбросила}?	What in this thought would you keep, and what would you throw out?
+any-067	ANY	Какие слова ты бы {повесил|повесила} над дверью вместо этих?	What words would you hang over the door instead of these?
+any-068	ANY	Если это правда лишь отчасти, то насколько?	If it’s only partly true, how much?
+any-069	ANY	Сколько раз в неделю ты повторяешь себе это?	How many times a week do you tell yourself this?
+any-070	ANY	Чего ты не делаешь из-за этой мысли? Назови одно.	What don’t you do because of this thought? Name one thing.
+any-071	ANY	Что самое плохое случится, если ты разок поступишь наперекор этой мысли?	What’s the worst that happens if you go against this thought just once?
+any-072	ANY	Если ты ошибаешься, кто заметит это первым?	If you’re wrong, who’ll notice first?
+any-073	ANY	Медвежатник с замком не спорит — он слушает. Что говорит эта мысль, если её просто выслушать?	A safecracker doesn’t argue with a lock — he listens. What does this thought say if you just hear it out?
+any-074	ANY	Чего эта мысль боится?	What is this thought afraid of?
+any-075	ANY	Как ты поймёшь, что начинаешь думать иначе? Что будет первым признаком?	How will you know you’re starting to think differently? What’ll be the first sign?
+any-076	ANY	Кто из знакомых поступил бы здесь иначе? Что бы он сделал?	Who among people you know would act differently here? What would they do?
+any-077	ANY	Это твоё мнение или чужое, выученное наизусть?	Is this your opinion, or someone else’s learned by heart?
+any-078	ANY	Как сказать это так, чтобы согласился и справедливый человек?	How could you put this so that a fair-minded person would agree too?
+any-079	ANY	Что ты выиграешь, если перестанешь в это верить?	What would you gain if you stopped believing this?
+any-080	ANY	Что ты запишешь сегодня вместо этой мысли — короче и честнее?	What will you write down today instead of this thought — shorter and more honest?
